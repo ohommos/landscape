@@ -1936,6 +1936,13 @@ landscape:
               slack_url: https://cloud-native.slack.com/messages/oras
               clomonitor_name: oras
           - item:
+            name: Apache Ozone
+            homepage_url: https://ozone.apache.org/
+            repo_url: https://github.com/apache/ozone
+            logo: kafka.svg
+            twitter: https://twitter.com/apacheozone
+            crunchbase: https://www.crunchbase.com/organization/apache
+          - item:
             name: Pengyun Network
             homepage_url: https://www.pengyunnetwork.com/
             logo: pengyun.svg
